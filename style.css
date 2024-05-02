@@ -584,10 +584,10 @@ h1,h2{
     /* margin-left: -150px; */
 }
 .part3 i{
-    margin-left: 80px;
+    margin-left: 50px;
 }
 .part3 p{
-    margin-left: 80px;
+    margin-left: -20px;
     font-size: 11px;
     letter-spacing: 2px;
     margin-bottom: 10px;
