@@ -549,7 +549,9 @@ h1,h2{
     margin-top: 10px;
 }
 .services-container .box{
-    margin-left: 70px;
+    margin-left: auto;
+    margin-right: auto;
+
     margin-bottom: 10px;
     width: 200px;
 }
@@ -597,7 +599,8 @@ h1,h2{
 }
 .services-container2 .box{
     margin-bottom: 7px;
-    margin-left: 30px;
+    margin-left: auto;
+    margin-right: auto;
     height: 95px;
 }
 .services-container2 .box h2{
