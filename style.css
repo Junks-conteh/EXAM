@@ -562,6 +562,9 @@ h1,h2{
 .header5{
     margin-left: 20px;
 }
+.body-container{
+    display: block;
+}
 .part1{
     margin-right: 80px;
 }
