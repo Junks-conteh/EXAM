@@ -540,6 +540,9 @@ h1,h2{
 .header4{
     margin-left: 5px;
 }
+.heading h1{
+    padding-top: 10px;
+}
 .section2 .heading h1{
     margin-top: 15px;
     display: block;
