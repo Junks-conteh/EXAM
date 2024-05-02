@@ -584,12 +584,12 @@ h1,h2{
     /* margin-left: -150px; */
 }
 .part3 i{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50PX;
+    /* margin-right: auto; */
 }
 .part3 p{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50PX;
+    /* margin-right: auto; */
     font-size: 11px;
     letter-spacing: 2px;
     margin-bottom: 10px;
