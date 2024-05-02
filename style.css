@@ -590,6 +590,7 @@ h1,h2{
 .part3 p{
     margin-left: 200PX;
     /* margin-right: auto; */
+    margin-right: 100px;
     font-size: 11px;
     letter-spacing: 2px;
     margin-bottom: 10px;
