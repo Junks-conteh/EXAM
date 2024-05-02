@@ -581,7 +581,7 @@ h1,h2{
     display: none;
 }
 .part3{
-    margin-left: -150px;
+    /* margin-left: -150px; */
 }
 .part3 i{
     margin-left: 80px;
