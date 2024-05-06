@@ -714,7 +714,7 @@ a:hover{
     margin-left: 5px;
 }
 .body,h1,h2{
-    margin-left: 50px;
+    margin-left: 40px;
 }
 h1,h2{
     font-size: 20px;
@@ -725,7 +725,7 @@ h1,h2{
 }
 
 .header4{
-    margin-left: 5px;
+    margin-left: 10px;
 }
 .heading h1{
     padding-top: 10px;
@@ -750,7 +750,7 @@ h1,h2{
     margin-right: 500px;
 }
 .header5{
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .body-container{
     display: block;
@@ -782,8 +782,14 @@ h1,h2{
     letter-spacing: 2px;
     margin-bottom: 10px;
 }
+.section3 .heading h1 p{
+    margin-right: 10px;
+}
 .header6{
-    margin-left: 20px;
+    margin-left: 10px;
+}
+.section4 .heading h1{
+    margin-right: 10px;
 }
 .services-container2{
     display: block;
